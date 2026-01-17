@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 - 🎓 Junior studying Cybersecurity at Grand Canyon University
-- 💼 Seeking Information Technology, IT Security, or Cybersecurity Internship
+- 💼 Seeking Information Technology, Information Security, or Cybersecurity Internship
 
 ## 💻 Skills
 ### Software Development
