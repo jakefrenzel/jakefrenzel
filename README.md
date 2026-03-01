@@ -20,7 +20,10 @@
 ## ✅ Completed Projects
 - [👑 CrownWynn](https://github.com/jakefrenzel/CrownWynn)
 - [🌐 Portfolio Website](https://github.com/jakefrenzel/jakefrenzel-portfolio)
+
+## ⏸ On Hold
 - [🏓 CourtsPro](https://github.com/jakefrenzel/) (Currently Private)
+> Originally developed as a business concept. Development was paused after identifying significant capital investment from an established competitor in the same space.
 
 ## 🧩 Project Details
 ### 🛡️ Jake's CyberLab
