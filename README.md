@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jake Frenzel
 
 ## 📖 About Me
-- 🎓 Junior studying Cybersecurity at Grand Canyon University
-- 💼 Seeking Information Technology, Information Security, or Cybersecurity Internship
+- 🎓 Senior studying Cybersecurity at Grand Canyon University
+- 💼 Infrastructure & Endpoint Security Intern
 
 ## 💻 Skills
 ### Software Development
@@ -15,7 +15,7 @@
 
 ## 🔨 What I'm Working On
 - [🛡️ Jake's CyberLab](https://github.com/jakefrenzel/jakefrenzel-cyberlab)
-- [🚩 CyberCTF Platform](https://github.com/jakefrenzel/jakefrenzel-cyberctf)
+- [🚩 Xsploit CTF Platform](https://xsploit.vercel.app/)
 
 ## ✅ Completed Projects
 - [👑 CrownWynn](https://github.com/jakefrenzel/CrownWynn)
