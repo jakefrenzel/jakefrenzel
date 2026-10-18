@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="220" viewBox="0 0 620 220">
+  <style>
+    .title { font: 600 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
+    .desc { font: 400 19.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #59636e; }
+    .stack { font: 500 15px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; fill: #0969da; letter-spacing: .3px; }
+    .status { font: 700 13px SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; letter-spacing: 1.2px; }
+  </style>
+  <defs>
+    <linearGradient id="icon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f7fe6"/>
+      <stop offset="1" stop-color="#0858c6"/>
+    </linearGradient>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff" stop-opacity=".12"/>
+      <stop offset=".55" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="lift" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#000" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <g transform="translate(10 10)">
+    <rect x="0.5" y="0.5" width="599" height="199" rx="14" fill="#f6f8fa" stroke="#d1d9e0"/>
+    <path d="M82.00 51.00 L81.98 60.07 L81.91 62.96 L81.79 65.04 L81.63 66.72 L81.42 68.15 L81.16 69.39 L80.85 70.48 L80.49 71.46 L80.08 72.34 L79.61 73.14 L79.09 73.86 L78.50 74.50 L77.86 75.09 L77.14 75.61 L76.34 76.08 L75.46 76.49 L74.48 76.85 L73.39 77.16 L72.15 77.42 L70.72 77.63 L69.04 77.79 L66.96 77.91 L64.07 77.98 L55.00 78.00 L45.93 77.98 L43.04 77.91 L40.96 77.79 L39.28 77.63 L37.85 77.42 L36.61 77.16 L35.52 76.85 L34.54 76.49 L33.66 76.08 L32.86 75.61 L32.14 75.09 L31.50 74.50 L30.91 73.86 L30.39 73.14 L29.92 72.34 L29.51 71.46 L29.15 70.48 L28.84 69.39 L28.58 68.15 L28.37 66.72 L28.21 65.04 L28.09 62.96 L28.02 60.07 L28.00 51.00 L28.02 41.93 L28.09 39.04 L28.21 36.96 L28.37 35.28 L28.58 33.85 L28.84 32.61 L29.15 31.52 L29.51 30.54 L29.92 29.66 L30.39 28.86 L30.91 28.14 L31.50 27.50 L32.14 26.91 L32.86 26.39 L33.66 25.92 L34.54 25.51 L35.52 25.15 L36.61 24.84 L37.85 24.58 L39.28 24.37 L40.96 24.21 L43.04 24.09 L45.93 24.02 L55.00 24.00 L64.07 24.02 L66.96 24.09 L69.04 24.21 L70.72 24.37 L72.15 24.58 L73.39 24.84 L74.48 25.15 L75.46 25.51 L76.34 25.92 L77.14 26.39 L77.86 26.91 L78.50 27.50 L79.09 28.14 L79.61 28.86 L80.08 29.66 L80.49 30.54 L80.85 31.52 L81.16 32.61 L81.42 33.85 L81.63 35.28 L81.79 36.96 L81.91 39.04 L81.98 41.93 Z" fill="url(#icon)" filter="url(#lift)"/>
+    <path d="M82.00 51.00 L81.98 60.07 L81.91 62.96 L81.79 65.04 L81.63 66.72 L81.42 68.15 L81.16 69.39 L80.85 70.48 L80.49 71.46 L80.08 72.34 L79.61 73.14 L79.09 73.86 L78.50 74.50 L77.86 75.09 L77.14 75.61 L76.34 76.08 L75.46 76.49 L74.48 76.85 L73.39 77.16 L72.15 77.42 L70.72 77.63 L69.04 77.79 L66.96 77.91 L64.07 77.98 L55.00 78.00 L45.93 77.98 L43.04 77.91 L40.96 77.79 L39.28 77.63 L37.85 77.42 L36.61 77.16 L35.52 76.85 L34.54 76.49 L33.66 76.08 L32.86 75.61 L32.14 75.09 L31.50 74.50 L30.91 73.86 L30.39 73.14 L29.92 72.34 L29.51 71.46 L29.15 70.48 L28.84 69.39 L28.58 68.15 L28.37 66.72 L28.21 65.04 L28.09 62.96 L28.02 60.07 L28.00 51.00 L28.02 41.93 L28.09 39.04 L28.21 36.96 L28.37 35.28 L28.58 33.85 L28.84 32.61 L29.15 31.52 L29.51 30.54 L29.92 29.66 L30.39 28.86 L30.91 28.14 L31.50 27.50 L32.14 26.91 L32.86 26.39 L33.66 25.92 L34.54 25.51 L35.52 25.15 L36.61 24.84 L37.85 24.58 L39.28 24.37 L40.96 24.21 L43.04 24.09 L45.93 24.02 L55.00 24.00 L64.07 24.02 L66.96 24.09 L69.04 24.21 L70.72 24.37 L72.15 24.58 L73.39 24.84 L74.48 25.15 L75.46 25.51 L76.34 25.92 L77.14 26.39 L77.86 26.91 L78.50 27.50 L79.09 28.14 L79.61 28.86 L80.08 29.66 L80.49 30.54 L80.85 31.52 L81.16 32.61 L81.42 33.85 L81.63 35.28 L81.79 36.96 L81.91 39.04 L81.98 41.93 Z" fill="url(#gloss)"/>
+    <g transform="translate(38 34) scale(1.42)"><path d="M3 5.5 C5.8 4.6 8.8 4.8 11.2 6.4 V19.4 C8.8 17.8 5.8 17.6 3 18.5 Z" fill="#fff"/><path d="M21 5.5 C18.2 4.6 15.2 4.8 12.8 6.4 V19.4 C15.2 17.8 18.2 17.6 21 18.5 Z" fill="#fff"/></g>
+    <text x="98" y="61" class="title" style="font-size:26.6px">Hacknet Methodology</text>
+    <rect x="424" y="36" width="148" height="30" rx="15" fill="none" stroke="#9a6700" stroke-opacity=".45"/>
+    <circle cx="440" cy="51" r="4" fill="#9a6700"/>
+    <text x="452" y="55.5" class="status" fill="#9a6700">IN PROGRESS</text>
+    <text x="28" y="117" class="desc">Offensive security guide that walks beginners</text>
+    <text x="28" y="145" class="desc">through a structured, phase-by-phase methodology.</text>
+    <text x="28" y="180" class="stack">Kali Linux · Offensive security · Documentation</text>
+  </g>
+</svg>
