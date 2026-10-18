@@ -1,47 +1,67 @@
-# 👋 Hi, I'm Jake Frenzel
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dots-shield-dark.svg">
+  <img src="./header-dots-shield-light.svg" alt="Jake Frenzel. Cybersecurity, Grand Canyon University. Infrastructure and Endpoint Security Intern, summer 2026." width="100%">
+</picture>
+</p>
 
-## 📖 About Me
-- 🎓 Senior studying Cybersecurity at Grand Canyon University
-- 💼 Infrastructure & Endpoint Security Intern
+<p>
+  <a href="https://www.linkedin.com/in/jakefrenzel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://jakefrenzel.com"><img src="https://img.shields.io/badge/Portfolio-24292F?style=flat-square&logo=astro&logoColor=white" alt="Portfolio"></a>
+  &nbsp;
+  <a href="mailto:contact@jakefrenzel.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-2F81F7?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
+</p>
 
-## 💻 Skills
-### Software Development
-<div style="display: flex; flex-wrap: wrap; gap: 6px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> </div> <div style="height: 6px;"></div> <div style="display: flex; flex-wrap: wrap; gap: 6px;"> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> </div>
+Cybersecurity senior at **Grand Canyon University**, most recently an **Infrastructure & Endpoint Security Intern** (summer 2026). I'm building my own EDR in Rust, I run a home lab to practice defending real networks, and I write full-stack apps with security at the core.
 
-### Cybersecurity
-<div style="display: flex; flex-wrap: wrap; gap: 6px;"><img src="https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white" /> <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FB5D00?style=flat&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Nmap-2F2F2F?style=flat&logo=gnometerminal&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white" /> </div>
+<!-- Recruiter tip: add one line here such as "Open to full-time security roles from May 2027." -->
 
----
+<!--
+## Experience
+**Infrastructure & Endpoint Security Intern** · Company name · Jun – Aug 2026
+- One line on what you worked on, for example endpoint hardening, patching or monitoring
+- One line with a result, ideally with a number
+-->
 
-## 🔨 What I'm Working On
-- [🛡️ Jake's CyberLab](https://github.com/jakefrenzel/jakefrenzel-cyberlab)
-- [🚩 Xsploit CTF Platform](https://xsploit.vercel.app/)
+## Featured projects
 
-## ✅ Completed Projects
-- [👑 CrownWynn](https://github.com/jakefrenzel/CrownWynn)
-- [🌐 Portfolio Website](https://github.com/jakefrenzel/jakefrenzel-portfolio)
+<p>
+  <a href="https://github.com/jakefrenzel/atlas-edr"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./card-atlas-edr-dark.svg">
+    <img src="./card-atlas-edr-light.svg" alt="Atlas EDR: Home-built Endpoint Detection &amp; Response: a Rust agent, server and console with Sigma detections. Built with Rust · ETW · Sigma · gRPC (mTLS)." width="49%">
+  </picture></a>
+  <a href="https://github.com/jakefrenzel/jakefrenzel-cyberlab"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./card-cyberlab-dark.svg">
+    <img src="./card-cyberlab-light.svg" alt="CyberLab: Virtualized lab for network design, system administration and attack/defense practice. Built with Proxmox · pfSense · Wireshark · Nmap." width="49%">
+  </picture></a>
+  <a href="https://github.com/jakefrenzel/ThreatDoppler"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./card-threatdoppler-dark.svg">
+    <img src="./card-threatdoppler-light.svg" alt="ThreatDoppler: Global cyber threat levels as a weather forecast: a 0–100 index, live event feed and alert rules. Built with React Native · Expo · TypeScript." width="49%">
+  </picture></a>
+  <a href="https://github.com/jakefrenzel/hacknet-methodology"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./card-hacknet-dark.svg">
+    <img src="./card-hacknet-light.svg" alt="Hacknet Methodology: Offensive security guide that walks beginners through a structured, phase-by-phase methodology. Built with Kali Linux · Offensive security · Documentation." width="49%">
+  </picture></a>
+</p>
 
-## ⏸ On Hold
-- [🏓 CourtsPro](https://github.com/jakefrenzel/) (Currently Private)
-> Originally developed as a business concept. Development was paused after identifying significant capital investment from an established competitor in the same space.
+## Skills
 
-## 🧩 Project Details
-### 🛡️ Jake's CyberLab
-- Building a personal **Cybersecurity and IT Networking lab** to explore tools, simulate real-world environments, and gain hands-on experience in system administration, network design, and security testing
-- Continuously expanding the lab with new technologies and challenges to strengthen practical skills in threat analysis, incident response, and secure infrastructure management.
-### 🚩 CyberCTF Platform
-- Building a full-stack Capture The Flag (CTF) platform designed for hosting and managing cybersecurity competitions, allowing organizers to create events and participants to compete, track progress, and solve challenges.
-- Implementing secure authentication with JWT, role-based access control, competition/challenge management, real-time flag submission, and an admin dashboard - powered by Django REST Framework on the backend and Next.js with TypeScript on the frontend.
-### 👑 CrownWynn
-- Creating a secure, provably fair casino platform that builds on my first project, *Keno Gambino*, using cryptographic systems and real-time integrity checks.
-- Implementing cryptographic random number generation and verifiable hash-based checks to ensure true randomness and integrity — similar to systems used in real online casinos.
-### 🌐 Jake's Personal Portfolio Site
-- I’m building a personal portfolio website to highlight my projects, skills, and experience
-- Built from scratch with Astro, this project challenges me to explore modern web development practices while refining my frontend design and development skills.
-### 🏓 CourtsPro 
-- CourtsPro is a full-stack web application built to manage pickleball court operations, including reservations, event scheduling, and court availability tracking.
-- It provides a streamlined interface for both players and administrators, simplifying facility management and improving the overall user experience.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skills-security-dark.svg">
+  <img src="./skills-security-light.svg" alt="Endpoint &amp; identity: CrowdStrike Falcon, Falcon Secure Access, Microsoft Intune, Absolute Security, Active Directory, Adaptive Security. Detection &amp; monitoring: Falcon NG-SIEM, Falcon AIDR, Wazuh, ELK Stack, Suricata, Zeek. Vulnerability management: Rapid7 InsightVM, Nessus, OpenVAS. Security testing: Kali Linux, Burp Suite, OWASP ZAP, Nmap, Metasploit, Gobuster, Wireshark. Infrastructure &amp; networking: Linux, Windows Server, VMware ESXi, Hyper-V, Proxmox, VirtualBox, pfSense, VLANs, Firewall rules. Security frameworks: MITRE ATT&amp;CK, OWASP Top 10." width="100%">
+</picture>
 
-## 📫 How to Reach Me
-[<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/jake-frenzel/)
-[<img width="48" height="48" src="https://img.icons8.com/color/48/discord-logo.png" alt="discord-logo"/>](https://discordapp.com/users/640314389337079867)
+#### Development
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skills-dev-dark.svg">
+  <img src="./skills-dev-light.svg" alt="Languages &amp; scripting: Python, Bash, PowerShell, JavaScript, TypeScript, Rust, C, C++, SQL, HTML, CSS. Frameworks: Django, Next.js, React, React Native, Astro, Tailwind CSS. Tools: Git, GitHub Actions, Docker, Postman, PostgreSQL." width="100%">
+</picture>
+
+<!--
+## Certifications
+- Add certifications here, for example CompTIA Security+ (2026)
+-->
